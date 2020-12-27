@@ -1,8 +1,14 @@
 {
   "name": "singapore-ic-validator",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A fast and easy to use Singapore IC validator.",
   "main": "index.js",
+  "keywords": [
+    "Singapore IC Validator",
+    "Singapore IC",
+    "IC Validator",
+    "Singapore"
+  ],
   "scripts": {
   },
   "author": "Phyo Zin Wai",
