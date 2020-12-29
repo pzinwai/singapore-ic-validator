@@ -10,7 +10,7 @@ npm i singapore-ic-validator
 ## Usage
 
 ```javascript
-const validateNRIC = require('singapore-ic-validator');
+const { validateNRIC } = require('singapore-ic-validator');
 
 let result = validateNRIC('SXXXXXXXJ');
 ```
